@@ -1,0 +1,5 @@
+
+
+public enum LessonType {
+	PRACTICE, LECTURE, PRACTICEANDLECTURE
+}
